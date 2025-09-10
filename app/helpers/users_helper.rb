@@ -10,6 +10,7 @@ module UsersHelper
 
   def format_job_time(time)
     return "Never" unless time
+
     "#{time_ago_in_words(time)} ago"
   end
 end
