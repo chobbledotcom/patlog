@@ -1,3 +1,7 @@
+.inspections-scroll-wrapper {
+  overflow-x: auto;
+}
+
 table.inspections {
   tr {
     td:first-child {
