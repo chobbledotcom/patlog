@@ -40,7 +40,7 @@ gem "bcrypt"
 gem "importmap-rails", "~> 2.1"
 
 # Image processing
-gem "image_processing", "~> 1.12"
+gem "image_processing", "~> 2.0"
 
 # QR code generation
 gem "rqrcode"
